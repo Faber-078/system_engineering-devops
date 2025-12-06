@@ -1,0 +1,1 @@
+grep -v "[nN]" iacta > iacta_filtered && mv iacta_filtered iacta
